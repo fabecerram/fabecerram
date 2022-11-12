@@ -6,7 +6,7 @@
 
 The material prior to 2020 has been removed from the repository for multiple reasons, some were so old that they were already obsolete, others very outdated and github showed errors due to security issues, and others were a bit sad, so in the end I decided it was better start from scratch. &#128522;
 
-Warning - Also keep in mind that the repositories are mainly focused on study material, so sometimes it can be very basic, but it is for academic purposes, and lately I have had to teach many basic courses!
+**Warning** - Keep in mind that much of the material in the repositories is of an educational nature, I have created it as part of the material that I use to teach the various programming courses that I currently teach, so you may find it very basic or incomplete, and It's because of the academic focus, and lately I've had to teach a lot of basic courses!
 
 <!---
 fabecerram/fabecerram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
